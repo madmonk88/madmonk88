@@ -6,7 +6,8 @@
 
 ### `$ whoami`
 
-**S. V. Bala Kumaran** — backend engineer. 15 years of distributed systems, cloud orchestration & APIs.
-Now vibe-coding at the edge of what backends were never meant to do. Learning daily. Shipping anyway.
+**S. V. Bala Kumaran**: backend engineer since 2010, now training as a forward deployed engineer.
+15 years turning customers' real data into working systems across accounts payable, healthcare, state tax, banking, insurance and energy.
+The demo runs on clean samples; production runs on the customer's real data. I work in the gap between the two.
 
-`→` full history at **[svbk.dev](https://svbk.dev)** · connect on **[LinkedIn](https://www.linkedin.com/in/balakumaransv/)**
+`→` field log at **[svbk.dev](https://svbk.dev)** · connect on **[LinkedIn](https://www.linkedin.com/in/balakumaransv/)**
