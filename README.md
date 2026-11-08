@@ -1,4 +1,8 @@
-[![ssh you@svbk.dev — backend engineer, 15y of distributed systems](github-banner.png)](https://svbk.dev)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://svbk.dev/github-banner.png">
+  <img alt="svbk.dev — backend engineer → forward deployed engineer" src="https://svbk.dev/github-banner-light.png">
+</picture>
 
 ### `$ whoami`
 
